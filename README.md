@@ -9,7 +9,7 @@ A PHP web application that allows authenticated users to sync YouTube channels, 
 After setup, open your browser and go to:
 
 ```
-http://localhost/youtube-channel-manager/
+http://localhost/project_youtube_api_v2/
 ```
 
 This redirects to the login page if unauthenticated, or to the dashboard if already logged in.
@@ -55,7 +55,7 @@ That's it — the `youtube_manager` database and all tables are created automati
 ### 3. Open the app
 
 ```
-http://localhost/youtube-channel-manager/
+http://localhost/project_youtube_api_v2/
 ```
 
 Log in with your Google account and start syncing channels.
